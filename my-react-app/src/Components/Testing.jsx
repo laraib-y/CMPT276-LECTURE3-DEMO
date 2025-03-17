@@ -1,7 +1,7 @@
 function HelloWorld(){
     return (
         <header>
-            <h1>Testing!</h1>
+            <h1>Hello!</h1>
         </header>
     );
   }
